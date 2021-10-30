@@ -75,3 +75,7 @@ nav ul li {
 		color: var(--text-color);
 	}
 }
+
+.wb-body {
+	background-color: #111;
+}
